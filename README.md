@@ -5,3 +5,5 @@ If, however, the number is a multiple of three then print Fizz instead, and if t
 
 For numbers which are multiples of both three and five then print FizzBuzz.
 <p>Deploy: https://fizzbuzzfizzbuzz.netlify.app/</p>
+<h4>Languages</h3>
+  <p>Javascript, HTML5</p>
